@@ -25,10 +25,12 @@ Complemento mi perfil backend con el desarrollo de interfaces modernas y dinámi
 * **[EventDriven.Hub](enlace-a-tu-repo):** Motor de notificaciones en tiempo real usando RabbitMQ.
 -->
 ---
-
+<!--
 ### 📈 Mis Estadísticas
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=juanmamas&show_icons=true&theme=radical)
-
+-->
 ---
 📫 **Conectemos:**
-[LinkedIn](www.linkedin.com/in/juan-manuel-mascotena) | <!--[Tu Web Personal](tu-web-link)-->  [Correo](jmmascotena@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-manuel-mascotena)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmmascotena@gmail.com)
+<!--[![Web](https://img.shields.io/badge/Web_Personal-000000?style=for-the-badge&logo=firefox-browser&logoColor=white)](TU_URL_AQUÍ)-->
