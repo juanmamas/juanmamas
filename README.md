@@ -15,7 +15,7 @@ Complemento mi perfil backend con el desarrollo de interfaces modernas y dinámi
 - **Backend:** .NET, ASP.NET Core, SignalR.
 - **Arquitectura:** Clean Architecture, Microservicios, YARP API Gateway, CQRS.
 - **Frontend/Mobile:** React, React Native, TypeScript.
-- **Infraestructura:** PostgreSQL, Supabase, RabbitMQ, Docker, Firebase.
+- **Infraestructura:** PostgreSQL, MySQL, SQL Server, Firebase, Supabase, RabbitMQ, Docker.
 
 ---
 <!--
