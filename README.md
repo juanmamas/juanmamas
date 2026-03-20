@@ -23,13 +23,15 @@ Complemento mi perfil backend con el desarrollo de interfaces modernas y dinámi
 * **[CleanArch.StarterKit](enlace-a-tu-repo):** Mi arquitectura base de referencia con .NET 8 y SOLID.
 * **[Resilient.Gateway](enlace-a-tu-repo):** Simulación de microservicios con YARP y Circuit Breaker (Polly).
 * **[EventDriven.Hub](enlace-a-tu-repo):** Motor de notificaciones en tiempo real usando RabbitMQ.
--->
+
 ---
+-->
 <!--
 ### 📈 Mis Estadísticas
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=juanmamas&show_icons=true&theme=radical)
--->
+
 ---
+-->
 📫 **Conectemos:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-manuel-mascotena)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmmascotena@gmail.com)
